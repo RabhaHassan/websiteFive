@@ -1,0 +1,120 @@
+/* --------------------------------------
+=========================================
+	RESPONSIVE
+=========================================
+-----------------------------------------*/
+@media (max-width: 1366px){
+}
+@media (min-width: 1200px){
+    .search input[type="text"]{
+            width: 64%;
+    }
+}
+/**************************************/
+@media (min-width: 992px){
+
+    
+}
+/**********************************/
+@media (max-width: 991px) {
+    .slider-blog .carousel-caption h2{
+        font-size: 37px;
+    }
+    .slider-blog .carousel-caption h3{
+            width: 34%;
+    }
+}
+/**********************************/ 
+@media (min-width: 768px) and (max-width: 991px) { 
+    .slider-blog .carousel-caption{
+        bottom: -3%;
+    }
+    .slider-blog .carousel-caption h3{
+            width: 43%;
+    }
+    .search input[type="text"]{
+            width: 67%;
+    }
+}
+
+
+@media (max-width:767px) {
+    .slider-blog .carousel-caption{
+        bottom: -3%;
+    }
+    .slider-blog .carousel-caption h3{
+            width: 40%;
+    }
+}
+@media (max-width:731px) {
+    .slide{
+        float: none;
+    }
+}
+@media (max-width: 640px) {
+    
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #72318e;
+}
+    .slider-blog .carousel-caption{
+            bottom: 3%;
+    }
+    .slider-blog .carousel-caption h2{
+        font-size: 27px;
+    }
+    .slider-blog .carousel-caption p{
+        font-size: 15px;
+    }
+.navbar-inverse{
+            padding: 26px;
+    margin-left:0;
+    border: none;
+    z-index: 1!important;
+    }
+    .nav-right-logo{
+            padding: 10px;
+    display: inline-block;
+    }
+    .search{
+    display: inline-block;
+    width: 50%;
+    margin-top: -80px;
+    float: right;
+    }
+    .top-nav .notification-s .dropdown-menu{
+            margin-left: -104px;
+    }
+    .allItems .title{
+            margin-top: 51px;
+    }
+    .image-header{
+            margin-top: 85px;
+    }
+    .main_wrapper{
+            margin-top: 96px;
+    }
+}
+/**************************/
+@media (max-width: 560px) {
+    .navbar-toggle{
+            margin-top: 238px;
+    }
+}
+
+/**************************/
+@media (max-width:480px) {
+
+}
+/**************************/
+@media (max-width:417px){
+  
+}
+/**************************/
+@media (max-width:400px){
+
+}
+/***************************/
+@media (max-width: 360px){
+
+}
+
